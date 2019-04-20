@@ -1,0 +1,7 @@
+E:\Учеба\БГТУ\MITANIT\Templates\Singleton\Singleton\bin\Debug\Singleton.exe.config
+E:\Учеба\БГТУ\MITANIT\Templates\Singleton\Singleton\bin\Debug\Singleton.exe
+E:\Учеба\БГТУ\MITANIT\Templates\Singleton\Singleton\bin\Debug\Singleton.pdb
+E:\Учеба\БГТУ\MITANIT\Templates\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+E:\Учеба\БГТУ\MITANIT\Templates\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+E:\Учеба\БГТУ\MITANIT\Templates\Singleton\Singleton\obj\Debug\Singleton.exe
+E:\Учеба\БГТУ\MITANIT\Templates\Singleton\Singleton\obj\Debug\Singleton.pdb

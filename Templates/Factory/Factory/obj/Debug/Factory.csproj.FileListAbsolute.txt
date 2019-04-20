@@ -1,0 +1,7 @@
+E:\Учеба\БГТУ\MITANIT\Templates\Factory\Factory\bin\Debug\Factory.exe.config
+E:\Учеба\БГТУ\MITANIT\Templates\Factory\Factory\bin\Debug\Factory.exe
+E:\Учеба\БГТУ\MITANIT\Templates\Factory\Factory\bin\Debug\Factory.pdb
+E:\Учеба\БГТУ\MITANIT\Templates\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+E:\Учеба\БГТУ\MITANIT\Templates\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+E:\Учеба\БГТУ\MITANIT\Templates\Factory\Factory\obj\Debug\Factory.exe
+E:\Учеба\БГТУ\MITANIT\Templates\Factory\Factory\obj\Debug\Factory.pdb

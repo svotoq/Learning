@@ -1,0 +1,7 @@
+E:\Учеба\БГТУ\MITANIT\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe.config
+E:\Учеба\БГТУ\MITANIT\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe
+E:\Учеба\БГТУ\MITANIT\LinqToSql\LinqToSql\bin\Debug\LinqToSql.pdb
+E:\Учеба\БГТУ\MITANIT\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csprojAssemblyReference.cache
+E:\Учеба\БГТУ\MITANIT\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csproj.CoreCompileInputs.cache
+E:\Учеба\БГТУ\MITANIT\LinqToSql\LinqToSql\obj\Debug\LinqToSql.exe
+E:\Учеба\БГТУ\MITANIT\LinqToSql\LinqToSql\obj\Debug\LinqToSql.pdb

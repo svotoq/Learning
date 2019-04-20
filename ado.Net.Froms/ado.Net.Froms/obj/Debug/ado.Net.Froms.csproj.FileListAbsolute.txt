@@ -1,0 +1,10 @@
+E:\Учеба\БГТУ\MITANIT\ado.Net.Froms\ado.Net.Froms\bin\Debug\ado.Net.Froms.exe.config
+E:\Учеба\БГТУ\MITANIT\ado.Net.Froms\ado.Net.Froms\bin\Debug\ado.Net.Froms.exe
+E:\Учеба\БГТУ\MITANIT\ado.Net.Froms\ado.Net.Froms\bin\Debug\ado.Net.Froms.pdb
+E:\Учеба\БГТУ\MITANIT\ado.Net.Froms\ado.Net.Froms\obj\Debug\ado.Net.Froms.csprojAssemblyReference.cache
+E:\Учеба\БГТУ\MITANIT\ado.Net.Froms\ado.Net.Froms\obj\Debug\ado.Net.Froms.Form1.resources
+E:\Учеба\БГТУ\MITANIT\ado.Net.Froms\ado.Net.Froms\obj\Debug\ado.Net.Froms.Properties.Resources.resources
+E:\Учеба\БГТУ\MITANIT\ado.Net.Froms\ado.Net.Froms\obj\Debug\ado.Net.Froms.csproj.GenerateResource.cache
+E:\Учеба\БГТУ\MITANIT\ado.Net.Froms\ado.Net.Froms\obj\Debug\ado.Net.Froms.csproj.CoreCompileInputs.cache
+E:\Учеба\БГТУ\MITANIT\ado.Net.Froms\ado.Net.Froms\obj\Debug\ado.Net.Froms.exe
+E:\Учеба\БГТУ\MITANIT\ado.Net.Froms\ado.Net.Froms\obj\Debug\ado.Net.Froms.pdb

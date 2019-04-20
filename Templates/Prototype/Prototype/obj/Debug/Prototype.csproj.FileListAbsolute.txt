@@ -1,0 +1,6 @@
+E:\Учеба\БГТУ\MITANIT\Templates\Prototype\Prototype\bin\Debug\Prototype.exe.config
+E:\Учеба\БГТУ\MITANIT\Templates\Prototype\Prototype\bin\Debug\Prototype.exe
+E:\Учеба\БГТУ\MITANIT\Templates\Prototype\Prototype\bin\Debug\Prototype.pdb
+E:\Учеба\БГТУ\MITANIT\Templates\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+E:\Учеба\БГТУ\MITANIT\Templates\Prototype\Prototype\obj\Debug\Prototype.exe
+E:\Учеба\БГТУ\MITANIT\Templates\Prototype\Prototype\obj\Debug\Prototype.pdb

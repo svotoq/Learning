@@ -1,0 +1,7 @@
+E:\Учеба\БГТУ\MITANIT\Ado.net\Ado.net\bin\Debug\Ado.net.exe.config
+E:\Учеба\БГТУ\MITANIT\Ado.net\Ado.net\bin\Debug\Ado.net.exe
+E:\Учеба\БГТУ\MITANIT\Ado.net\Ado.net\bin\Debug\Ado.net.pdb
+E:\Учеба\БГТУ\MITANIT\Ado.net\Ado.net\obj\Debug\Ado.net.csprojAssemblyReference.cache
+E:\Учеба\БГТУ\MITANIT\Ado.net\Ado.net\obj\Debug\Ado.net.csproj.CoreCompileInputs.cache
+E:\Учеба\БГТУ\MITANIT\Ado.net\Ado.net\obj\Debug\Ado.net.exe
+E:\Учеба\БГТУ\MITANIT\Ado.net\Ado.net\obj\Debug\Ado.net.pdb
